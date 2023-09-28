@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pythonom
 - 👀 I’m interested in ...web development & design
-- 🌱 I’m currently learning ...javascript
+- 🌱 I’m currently learning ...javascript & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
